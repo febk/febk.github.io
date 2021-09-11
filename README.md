@@ -1,5 +1,4 @@
-# febk.github.io
-Github Pages root.
+# Github Pages root.
 
 Projects I am currently hosting on GitHub pages
 
